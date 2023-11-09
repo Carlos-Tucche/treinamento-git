@@ -1,5 +1,5 @@
-qualquer coisa
+primeira linha
 linha 2 inserida on line
-comentario otario
+linha 3
 nova linha
 e mais uma
