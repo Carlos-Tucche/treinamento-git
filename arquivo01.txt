@@ -1,6 +1,6 @@
-linha 2 inserida on line
-linha 3
-linha 1
+primeira linha
+segunda linha
+terceira linha
 
 nova linha
 e mais uma
