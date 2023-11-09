@@ -1,5 +1,7 @@
-qualquer coisa
-linha 2 inserida on line
-comentario otario
+linha 1
+comflitei
 nova linha
 e mais uma
+
+
+teste
